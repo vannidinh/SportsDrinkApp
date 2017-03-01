@@ -1,0 +1,98 @@
+html {
+  height:100%;
+  margin:0;
+  padding:0;
+}
+body{
+  margin:0;
+  padding:0;
+  height:inherit;
+  
+}
+.ulbackground{
+ background-color: #1d89f7;
+ background-color:#00b33c;
+ padding-left: 0px;
+ padding-bottom: 10px;
+ padding-top: 10px; 
+ padding-right: 0px;
+ margin: 0;
+ width: 100%
+}
+
+body{
+ margin: 0;
+ padding: 0;
+ background-color: #e6f2ff;
+ color: green;
+ font-family: Justice;
+ font-size: 18px;
+ }
+
+.list-link{
+ text-decoration: none;
+ padding: 16px 8px;
+ color: #ffffff;
+ }
+
+.list-link:hover{
+ background-color: #ffffe6;
+}
+
+.navbutton{
+ display: inline;	
+ padding: 0;
+ font-family: Arial , sans-serif;
+ font-size: 24px;
+}
+ 
+
+
+input:required {
+    background:hsl(0, 0%, 95%);
+    border:1px solid #999;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+    text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+    color: green;
+    background-color:#e6f9ff;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+ }
+
+.form-signin .form-signin-heading
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+ }
+
+.form-signin .form-control {
+  position: relative;
+  height: 38px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+      padding: 10px;
+    font-family: Rockwell; 
+  font-size: 16px;
+  color: purple;
+  margin-bottom:10px;
+ }
+
+.form-signin .form-control:focus {
+background-color: #e6f2ff;
+  z-index: 2;
+}
+
+.table {
+  text-align: left;
+   color:black;
+} 
+  
